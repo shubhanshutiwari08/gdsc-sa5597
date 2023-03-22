@@ -6,7 +6,7 @@ function App() {
     <>
     <Preloader/>
     <div className="App">
-      <h1>HEllo</h1>
+      <h3>Hello everyone to the To do list app</h3>
     </div>
     </>
   );
