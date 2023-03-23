@@ -5,9 +5,9 @@ function App() {
   return (
     <>
     <Preloader/>
-    <div className="App">
-      <h3>Hello everyone to the To do list app</h3>
-    </div>
+    <h1 className="text-3xl font-bold underline text-center">
+      Hello world!
+    </h1>
     </>
   );
 }
